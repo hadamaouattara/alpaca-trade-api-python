@@ -14,8 +14,8 @@ class MartingaleTrader(object):
     def __init__(self):
         # API authentication keys can be taken from the Alpaca dashboard.
         # https://app.alpaca.markets/paper/dashboard/overview
-        self.key_id = "REPLACE_ME"
-        self.secret_key = "REPLACE_ME"
+        self.key_id = "PKT1H0VZSTVMN93W4ULT"
+        self.secret_key = "N0I5u0s7aprgi3H/psOAp8SxUdYe6LhNQYJBgQEd"
         self.base_url = 'https://paper-api.alpaca.markets'
 
         # The symbol we will be trading
